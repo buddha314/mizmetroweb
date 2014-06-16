@@ -12,4 +12,6 @@ Playing around the the Metro web data and my buddy Mizzath, using Python Flask.
     
 You will need an LA Metro developer key to do that call.  For a bit, this will be hard-coded as buddha_metro.key.
 
+Well, it looks like the LA Metro API izbrokun...  damn.
+
 
